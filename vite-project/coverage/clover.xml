@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1782860654014" clover="3.2.0">
+  <project timestamp="1782860654014" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="17" coveredelements="17" complexity="0" loc="11" ncloc="11" packages="2" files="2" classes="2"/>
+    <package name="components">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Counter.jsx" path="C:\Users\Iain\IdeaProjects\unit-testing-in-next-js-iwest05\vite-project\src\components\Counter.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="11" type="stmt"/>
+        <line num="5" count="11" type="stmt"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="calculateTotal.js" path="C:\Users\Iain\IdeaProjects\unit-testing-in-next-js-iwest05\vite-project\src\utils\calculateTotal.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="3" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

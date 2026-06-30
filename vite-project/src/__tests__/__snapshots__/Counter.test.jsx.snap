@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Counter Snapshot matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Counter
+    </h1>
+    <p
+      data-testid="counter-value"
+    >
+      0
+    </p>
+    <button>
+      Increment
+    </button>
+    <button>
+      Decrement
+    </button>
+  </div>
+</DocumentFragment>
+`;
